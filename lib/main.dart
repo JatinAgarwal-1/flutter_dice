@@ -62,9 +62,3 @@ class _DicePageState extends State<DicePage> {
   }
 }
 
-
-
-
-//dfgrgrgwert3
-//TJHRTHTYERRE
-//    JJTJTHER
